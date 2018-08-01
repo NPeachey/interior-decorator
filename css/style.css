@@ -1,17 +1,33 @@
 .before {
+  margin: 12px;
+  border: 4px solid green;
+  padding: 4px;
+  background-color: purple;
   width: 300px;
   float: left;
 }
 .during {
+  margin: 12px;
+  border: 4px solid green;
+  padding: 4px;
+  background-color: orange;
   width: 300px;
   float: left;
 }
 .after{
+  margin: 12px;
+  border: 4px solid green;
+  padding: 4px;
+  background-color: blue;
   width: 300px;
   float: left;
 }
-.sidebar {
-  float: right;
+.info {
+  margin: 12px;
+  border: 4px solid green;
+  padding: 4px;
+  width: 300px;
+  float: left;
   background-color: yellow;
 }
 .pic {
